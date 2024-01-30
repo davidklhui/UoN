@@ -5,6 +5,7 @@ This repo contains my courseworks of the following modules:
 2. MATH4022 Time Series and Forecasting
 3. MATH4065 Statistical Foundations
 4. MATH4068 Applied Multivariate Statistics
+5. MATH4021 Statistics Dissertation
 
 For each folder, it contains:
 1. coursework pdf(s)
